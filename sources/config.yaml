@@ -1,7 +1,6 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
+  - KG_Sans_Beta_4.8_Roman
 axisOrder:
   - wght
-  - ital
-familyName: Rubik
+outputDir: "../fonts"
+familyName: KG Sans Beta
