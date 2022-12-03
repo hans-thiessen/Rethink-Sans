@@ -1,8 +1,10 @@
-Copyright 2022 The Rethink-Sans-2 Project Authors (https://github.com/googlefonts/googlefonts-project-template)
+Copyright 2014-2017 Indian Type Foundry with Reserved Font Name 'Poppins'.
+Copyright 2019 Google LLC with Reserved Name 'DM Sans'.
+Copyright 2022 Rethink Communications LLP with Reserved Name 'Rethink Sans'.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-https://scripts.sil.org/OFL
+http://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
