@@ -1,6 +1,6 @@
 sources:
-  - KG_Sans_Beta_Roman.glyphs
+  - RethinkSans.glyphs
 axisOrder:
   - wght
 outputDir: "../fonts"
-familyName: KG Sans Beta
+familyName: "Rethink Sans"
