@@ -628,31 +628,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: quotedbl	Contours detected: 1	Expected: 2
 
-	- Glyph name: dieresis	Contours detected: 1	Expected: 2
-
 	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: Adieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: Edieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Idieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Odieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: Udieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: adieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: edieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: idieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: odieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: udieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: ydieresis	Contours detected: 2	Expected: 3
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
@@ -662,14 +638,6 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: Ydieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: uni0308	Contours detected: 1	Expected: 2
-
-	- Glyph name: Wdieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: wdieresis	Contours detected: 2	Expected: 3
-
 	- Glyph name: quotedblright	Contours detected: 1	Expected: 2
 
 	- Glyph name: perthousand	Contours detected: 5	Expected: 6 or 7
@@ -678,35 +646,11 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni2783	Contours detected: 3	Expected: 4
 
-	- Glyph name: Adieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: Edieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Idieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Odieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: Udieresis	Contours detected: 2	Expected: 3
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: Wdieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Ydieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: adieresis	Contours detected: 3	Expected: 4
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: dieresis	Contours detected: 1	Expected: 2
-
-	- Glyph name: edieresis	Contours detected: 3	Expected: 4
-
 	- Glyph name: eogonek	Contours detected: 3	Expected: 2
-
-	- Glyph name: idieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: odieresis	Contours detected: 3	Expected: 4
 
 	- Glyph name: perthousand	Contours detected: 5	Expected: 6 or 7
 
@@ -714,21 +658,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: quotedblright	Contours detected: 1	Expected: 2
 
-	- Glyph name: udieresis	Contours detected: 2	Expected: 3
-
 	- Glyph name: uni00AD	Contours detected: 1	Expected: 0
-
-	- Glyph name: uni0308	Contours detected: 1	Expected: 2
 
 	- Glyph name: uni2113	Contours detected: 1	Expected: 2
 
-	- Glyph name: uni2783	Contours detected: 3	Expected: 4
+	- Glyph name: uni2783	Contours detected: 3	Expected: 4 
 
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: wdieresis	Contours detected: 2	Expected: 3 
-
-	- And Glyph name: ydieresis	Contours detected: 2	Expected: 3
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
