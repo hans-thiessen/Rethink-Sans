@@ -1,9 +1,6 @@
 {
 .appVersion = "3148";
 .formatVersion = 3;
-DisplayStrings = (
-"·"
-);
 axes = (
 {
 name = Weight;
@@ -62235,7 +62232,7 @@ unicode = 169;
 },
 {
 glyphname = registered;
-lastChange = "2022-07-12 22:38:49 +0000";
+lastChange = "2023-01-04 00:49:41 +0000";
 layers = (
 {
 hints = (
@@ -72233,7 +72230,7 @@ unicode = 9674;
 },
 {
 glyphname = dieresiscomb;
-lastChange = "2022-12-23 00:37:53 +0000";
+lastChange = "2023-01-04 00:45:53 +0000";
 layers = (
 {
 anchors = (
@@ -72337,23 +72334,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(267,606,o),
-(293,631,o),
-(293,664,cs),
-(293,696,o),
-(267,720,o),
-(235,720,cs),
-(202,720,o),
-(177,696,o),
-(177,664,cs),
-(177,631,o),
-(202,606,o),
-(235,606,cs)
-);
-},
-{
-closed = 1;
-nodes = (
 (90,606,o),
 (116,631,o),
 (116,664,cs),
@@ -72366,6 +72346,23 @@ nodes = (
 (0,631,o),
 (25,606,o),
 (58,606,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(267,606,o),
+(293,631,o),
+(293,664,cs),
+(293,696,o),
+(267,720,o),
+(235,720,cs),
+(202,720,o),
+(177,696,o),
+(177,664,cs),
+(177,631,o),
+(202,606,o),
+(235,606,cs)
 );
 }
 );
@@ -74782,7 +74779,7 @@ unicode = 808;
 },
 {
 glyphname = dieresiscomb.cap;
-lastChange = "2022-12-23 00:37:53 +0000";
+lastChange = "2023-01-04 00:46:06 +0000";
 layers = (
 {
 anchors = (
@@ -74886,23 +74883,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(267,775,o),
-(293,800,o),
-(293,833,cs),
-(293,865,o),
-(267,889,o),
-(235,889,cs),
-(202,889,o),
-(177,865,o),
-(177,833,cs),
-(177,800,o),
-(202,775,o),
-(235,775,cs)
-);
-},
-{
-closed = 1;
-nodes = (
 (90,775,o),
 (116,800,o),
 (116,833,cs),
@@ -74915,6 +74895,23 @@ nodes = (
 (0,800,o),
 (25,775,o),
 (58,775,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(267,775,o),
+(293,800,o),
+(293,833,cs),
+(293,865,o),
+(267,889,o),
+(235,889,cs),
+(202,889,o),
+(177,865,o),
+(177,833,cs),
+(177,800,o),
+(202,775,o),
+(235,775,cs)
 );
 }
 );
@@ -76949,7 +76946,7 @@ note = uni0328.cap;
 },
 {
 glyphname = dieresis;
-lastChange = "2022-12-23 00:37:53 +0000";
+lastChange = "2023-01-04 00:46:21 +0000";
 layers = (
 {
 hints = (
@@ -77033,23 +77030,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(282,606,o),
-(308,631,o),
-(308,664,cs),
-(308,696,o),
-(282,720,o),
-(250,720,cs),
-(217,720,o),
-(192,696,o),
-(192,664,cs),
-(192,631,o),
-(217,606,o),
-(250,606,cs)
-);
-},
-{
-closed = 1;
-nodes = (
 (105,606,o),
 (131,631,o),
 (131,664,cs),
@@ -77062,6 +77042,23 @@ nodes = (
 (15,631,o),
 (40,606,o),
 (73,606,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(282,606,o),
+(308,631,o),
+(308,664,cs),
+(308,696,o),
+(282,720,o),
+(250,720,cs),
+(217,720,o),
+(192,696,o),
+(192,664,cs),
+(192,631,o),
+(217,606,o),
+(250,606,cs)
 );
 }
 );
@@ -80239,6 +80236,7 @@ v = -20;
 asterisk = -23;
 backslash = -51;
 question = -20;
+registered = -35;
 v = -20;
 x = -23;
 };
@@ -80253,6 +80251,7 @@ backslash = -79;
 braceright = -50;
 parenright = -41;
 question = -30;
+registered = -35;
 slash = -11;
 v = -25;
 x = -21;
@@ -80263,6 +80262,7 @@ asterisk = -23;
 backslash = -43;
 parenright = -4;
 question = -30;
+registered = -35;
 v = -16;
 };
 "@MMK_L_g" = {
@@ -80332,6 +80332,7 @@ asterisk = -37;
 backslash = -50;
 parenright = -3;
 question = -29;
+registered = -35;
 v = -27;
 };
 "@MMK_L_t" = {
@@ -81577,6 +81578,7 @@ v = -45;
 asterisk = -31;
 backslash = -56;
 question = -20;
+registered = -50;
 v = -20;
 x = -26;
 };
@@ -81594,6 +81596,7 @@ i = -5;
 l = -5;
 parenright = -46;
 question = -30;
+registered = -50;
 slash = -16;
 v = -24;
 x = -26;
@@ -81604,6 +81607,7 @@ asterisk = -31;
 backslash = -51;
 parenright = -17;
 question = -30;
+registered = -50;
 v = -17;
 };
 "@MMK_L_g" = {
@@ -81680,6 +81684,7 @@ asterisk = -38;
 backslash = -50;
 parenright = -11;
 question = -24;
+registered = -50;
 v = -23;
 };
 "@MMK_L_t" = {
@@ -83057,6 +83062,7 @@ x = -20;
 asterisk = -36;
 backslash = -59;
 question = -20;
+registered = -50;
 v = -20;
 x = -29;
 };
@@ -83075,6 +83081,7 @@ i = -8;
 l = -8;
 parenright = -49;
 question = -30;
+registered = -50;
 slash = -19;
 v = -23;
 x = -29;
@@ -83087,6 +83094,7 @@ asterisk = -36;
 backslash = -56;
 parenright = -26;
 question = -30;
+registered = -50;
 v = -18;
 x = -20;
 };
@@ -83172,6 +83180,7 @@ asterisk = -39;
 backslash = -50;
 parenright = -16;
 question = -21;
+registered = -50;
 v = -20;
 };
 "@MMK_L_t" = {
