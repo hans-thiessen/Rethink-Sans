@@ -94122,9 +94122,15 @@ unicode = 42892;
 },
 {
 glyphname = fi;
-lastChange = "2023-05-03 07:58:21 +0000";
+lastChange = "2023-05-03 08:09:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (267,0);
+}
+);
 background = {
 shapes = (
 {
@@ -94266,6 +94272,12 @@ nodes = (
 width = 534;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (283.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -94407,6 +94419,12 @@ nodes = (
 width = 567;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (271,0);
+}
+);
 background = {
 shapes = (
 {
@@ -94553,9 +94571,15 @@ unicode = 64257;
 },
 {
 glyphname = fl;
-lastChange = "2023-05-03 07:58:21 +0000";
+lastChange = "2023-05-03 08:09:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (263.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -94654,6 +94678,12 @@ nodes = (
 width = 527;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (277.5,0);
+}
+);
 background = {
 shapes = (
 {
@@ -94752,6 +94782,12 @@ nodes = (
 width = 555;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (271,0);
+}
+);
 background = {
 shapes = (
 {
@@ -126734,133 +126770,6 @@ width = 379.66667;
 );
 note = hyphen;
 unicode = 45;
-},
-{
-glyphname = softhyphen;
-kernLeft = hyphen;
-kernRight = hyphen;
-lastChange = "2023-05-03 07:58:46 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(473,236,l),
-(473,343,l),
-(54,343,l),
-(54,236,l)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = (236,107);
-type = Stem;
-},
-{
-place = (54,419);
-type = Stem;
-}
-);
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(473,236,l),
-(473,343,l),
-(54,343,l),
-(54,236,l)
-);
-}
-);
-width = 600;
-},
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(455,255,l),
-(455,326,l),
-(59,326,l),
-(59,255,l)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = (255,71);
-type = Stem;
-},
-{
-place = (59,396);
-type = Stem;
-}
-);
-layerId = "E8FC3098-FD3B-4CCD-A487-BB9306939620";
-shapes = (
-{
-closed = 1;
-nodes = (
-(455,255,l),
-(455,326,l),
-(59,326,l),
-(59,255,l)
-);
-}
-);
-width = 600;
-},
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(485,223,l),
-(485,354,l),
-(51,354,l),
-(51,223,l)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = (223,131);
-type = Stem;
-},
-{
-place = (51,434);
-type = Stem;
-}
-);
-layerId = "E93BD6B3-FA9D-4EFB-B4A0-6094DEE674CC";
-shapes = (
-{
-closed = 1;
-nodes = (
-(485,223,l),
-(485,354,l),
-(51,354,l),
-(51,223,l)
-);
-}
-);
-width = 600;
-}
-);
-note = uni00AD;
-unicode = 173;
 },
 {
 glyphname = endash;
@@ -162055,6 +161964,11 @@ ibreve = 39;
 imacron = 51;
 itilde = 33;
 };
+Etilde = {
+ibreve = 39;
+imacron = 51;
+itilde = 33;
+};
 F = {
 "@MMK_R_A" = -71;
 "@MMK_R_a" = -34;
@@ -162350,6 +162264,12 @@ questiondown = -44;
 dcroat = {
 imacron = 81;
 };
+doubleprimemod = {
+J = -70;
+at = -80;
+imacron = 100;
+itilde = 61;
+};
 eth = {
 imacron = 30;
 };
@@ -162438,6 +162358,7 @@ Edotaccent = 40;
 Egrave = 40;
 Emacron = 40;
 Eogonek = 40;
+Etilde = 40;
 F = 40;
 H = 40;
 I = 40;
@@ -162492,7 +162413,6 @@ quotedblright = 57;
 quoteleft = 69;
 quoteright = 57;
 thorn = 60;
-Etilde = 40;
 };
 itilde = {
 "@MMK_R_uni02BA" = 61;
@@ -162563,6 +162483,12 @@ plus = {
 "@MMK_R_W" = -57;
 "@MMK_R_Y" = -71;
 slash = -47;
+};
+primemod = {
+J = -70;
+at = -80;
+imacron = 100;
+itilde = 61;
 };
 q = {
 backslash = -39;
@@ -162655,6 +162581,7 @@ Edotaccent = 57;
 Egrave = 57;
 Emacron = 57;
 Eogonek = 57;
+Etilde = 57;
 F = 57;
 H = 57;
 I = 57;
@@ -162704,7 +162631,6 @@ quotedblbase = -89;
 quotesinglbase = -89;
 slash = -120;
 underscore = -149;
-Etilde = 57;
 };
 underscore = {
 "@MMK_R_C" = -43;
@@ -162719,23 +162645,6 @@ backslash = -166;
 j = 8;
 question = -49;
 underscore = -120;
-};
-primemod = {
-J = -70;
-at = -80;
-imacron = 100;
-itilde = 61;
-};
-doubleprimemod = {
-J = -70;
-at = -80;
-imacron = 100;
-itilde = 61;
-};
-Etilde = {
-ibreve = 39;
-imacron = 51;
-itilde = 33;
 };
 v = {
 "@MMK_R_a" = -25;
@@ -163411,6 +163320,14 @@ ibreve = 34;
 imacron = 56;
 itilde = 41;
 };
+Ereversed = {
+"@MMK_R_T" = 5;
+};
+Etilde = {
+ibreve = 34;
+imacron = 56;
+itilde = 41;
+};
 F = {
 "@MMK_R_A" = -76;
 "@MMK_R_a" = -42;
@@ -163870,6 +163787,7 @@ Edotaccent = 40;
 Egrave = 40;
 Emacron = 40;
 Eogonek = 40;
+Etilde = 40;
 F = 40;
 H = 40;
 I = 40;
@@ -163924,7 +163842,6 @@ quotedblright = 49;
 quoteleft = 64;
 quoteright = 49;
 thorn = 60;
-Etilde = 40;
 };
 itilde = {
 asterisk = 17;
@@ -164087,6 +164004,7 @@ Edotaccent = 49;
 Egrave = 49;
 Emacron = 49;
 Eogonek = 49;
+Etilde = 49;
 F = 49;
 H = 49;
 I = 49;
@@ -164136,7 +164054,6 @@ quotedblbase = -84;
 quotesinglbase = -84;
 slash = -120;
 underscore = -144;
-Etilde = 49;
 };
 underscore = {
 "@MMK_R_C" = -21;
@@ -164151,14 +164068,6 @@ backslash = -153;
 j = 34;
 question = -44;
 underscore = -110;
-};
-Ereversed = {
-"@MMK_R_T" = 5;
-};
-Etilde = {
-ibreve = 34;
-imacron = 56;
-itilde = 41;
 };
 v = {
 "@MMK_R_a" = -25;
@@ -164905,6 +164814,14 @@ ibreve = 31;
 imacron = 59;
 itilde = 46;
 };
+Ereversed = {
+"@MMK_R_T" = 8;
+};
+Etilde = {
+ibreve = 31;
+imacron = 59;
+itilde = 46;
+};
 F = {
 "@MMK_R_A" = -65;
 "@MMK_R_T" = 10;
@@ -165291,6 +165208,12 @@ questiondown = -66;
 dcroat = {
 imacron = 89;
 };
+doubleprimemod = {
+J = 47;
+at = 53;
+imacron = -67;
+itilde = -41;
+};
 eth = {
 imacron = 30;
 };
@@ -165386,6 +165309,7 @@ Edotaccent = 40;
 Egrave = 40;
 Emacron = 40;
 Eogonek = 40;
+Etilde = 40;
 F = 40;
 H = 40;
 I = 40;
@@ -165440,7 +165364,6 @@ quotedblright = 44;
 quoteleft = 61;
 quoteright = 44;
 thorn = 60;
-Etilde = 40;
 };
 itilde = {
 "@MMK_R_uni02BA" = -41;
@@ -165514,6 +165437,12 @@ plus = {
 "@MMK_R_W" = -44;
 "@MMK_R_Y" = -79;
 slash = -34;
+};
+primemod = {
+J = 47;
+at = 53;
+imacron = -67;
+itilde = -41;
 };
 q = {
 backslash = -31;
@@ -165606,6 +165535,7 @@ Edotaccent = 44;
 Egrave = 44;
 Emacron = 44;
 Eogonek = 44;
+Etilde = 44;
 F = 44;
 H = 44;
 I = 44;
@@ -165655,7 +165585,6 @@ quotedblbase = -81;
 quotesinglbase = -81;
 slash = -120;
 underscore = -141;
-Etilde = 44;
 };
 underscore = {
 "@MMK_R_C" = -6;
@@ -165670,26 +165599,6 @@ backslash = -144;
 j = 51;
 question = -41;
 underscore = -103;
-};
-Ereversed = {
-"@MMK_R_T" = 8;
-};
-primemod = {
-J = 47;
-at = 53;
-imacron = -67;
-itilde = -41;
-};
-doubleprimemod = {
-J = 47;
-at = 53;
-imacron = -67;
-itilde = -41;
-};
-Etilde = {
-ibreve = 31;
-imacron = 59;
-itilde = 46;
 };
 v = {
 "@MMK_R_a" = -25;

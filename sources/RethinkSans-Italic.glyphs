@@ -37,7 +37,7 @@ name = "Axis Mappings";
 value = {
 wght = {
 400 = 400;
-500 = 500;
+500 = 550;
 600 = 600;
 700 = 700;
 800 = 800;
@@ -96971,9 +96971,15 @@ unicode = 42892;
 },
 {
 glyphname = fi;
-lastChange = "2023-05-03 08:05:36 +0000";
+lastChange = "2023-05-03 08:09:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (287.5,0);
+}
+);
 background = {
 anchors = (
 {
@@ -97094,6 +97100,12 @@ ref = i;
 width = 575;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (272.5,0);
+}
+);
 background = {
 anchors = (
 {
@@ -97214,6 +97226,12 @@ ref = i;
 width = 545;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (276,0);
+}
+);
 background = {
 anchors = (
 {
@@ -97339,9 +97357,15 @@ unicode = 64257;
 },
 {
 glyphname = fl;
-lastChange = "2023-05-03 08:05:36 +0000";
+lastChange = "2023-05-03 08:09:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (278.5,0);
+}
+);
 background = {
 anchors = (
 {
@@ -97452,6 +97476,12 @@ ref = l;
 width = 557;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (267.5,0);
+}
+);
 background = {
 anchors = (
 {
@@ -97562,6 +97592,12 @@ ref = l;
 width = 535;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (273.5,0);
+}
+);
 background = {
 anchors = (
 {
@@ -133378,133 +133414,6 @@ width = 516;
 );
 note = hyphen;
 unicode = 45;
-},
-{
-glyphname = softhyphen;
-kernLeft = hyphen;
-kernRight = hyphen;
-lastChange = "2023-05-03 08:05:55 +0000";
-layers = (
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(457,255,l),
-(469,326,l),
-(73,326,l),
-(61,255,l)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = (255,71);
-type = Stem;
-},
-{
-place = (61,408);
-type = Stem;
-}
-);
-layerId = m01;
-shapes = (
-{
-closed = 1;
-nodes = (
-(457,255,l),
-(469,326,l),
-(73,326,l),
-(61,255,l)
-);
-}
-);
-width = 600;
-},
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(461,236,l),
-(480,343,l),
-(61,343,l),
-(43,236,l)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = (226,97);
-type = Stem;
-},
-{
-place = (43,427);
-type = Stem;
-}
-);
-layerId = "C673E357-C9AB-4A21-92F5-E812FFC50395";
-shapes = (
-{
-closed = 1;
-nodes = (
-(461,236,l),
-(480,343,l),
-(61,343,l),
-(43,236,l)
-);
-}
-);
-width = 580;
-},
-{
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(470,223,l),
-(494,354,l),
-(60,354,l),
-(38,223,l)
-);
-}
-);
-};
-hints = (
-{
-horizontal = 1;
-place = (213,121);
-type = Stem;
-},
-{
-place = (38,446);
-type = Stem;
-}
-);
-layerId = "3DCB9202-475F-4A42-ABEA-4A11C2D29AB5";
-shapes = (
-{
-closed = 1;
-nodes = (
-(470,223,l),
-(494,354,l),
-(60,354,l),
-(38,223,l)
-);
-}
-);
-width = 580;
-}
-);
-note = uni00AD;
-unicode = 173;
 },
 {
 glyphname = endash;
@@ -171040,6 +170949,12 @@ imacron = 51;
 itilde = 33;
 v = -19;
 };
+Etilde = {
+ibreve = 29;
+imacron = 51;
+itilde = 33;
+v = -19;
+};
 F = {
 "@MMK_R_A" = -60;
 "@MMK_R_a" = -40;
@@ -171324,6 +171239,12 @@ questiondown = -7;
 dcroat = {
 imacron = 64;
 };
+doubleprimemod = {
+J = -34;
+backslash = 20;
+imacron = 100;
+itilde = 60;
+};
 eth = {
 imacron = 30;
 };
@@ -171376,9 +171297,11 @@ idieresis = 80;
 imacron = 60;
 itilde = 46;
 k = 60;
+kcommaaccent = 60;
 l = 60;
 lacute = 60;
 lcaron = 60;
+lcommaaccent = 60;
 ldot = 60;
 lslash = 40;
 parenright = 6;
@@ -171387,8 +171310,6 @@ quotedblleft = 57;
 quotedblright = 40;
 quoteleft = 57;
 quoteright = 40;
-kcommaaccent = 60;
-lcommaaccent = 60;
 };
 ibreve = {
 backslash = 51;
@@ -171410,6 +171331,7 @@ Edotaccent = 40;
 Egrave = 40;
 Emacron = 40;
 Eogonek = 40;
+Etilde = 40;
 F = 40;
 H = 40;
 I = 40;
@@ -171452,9 +171374,11 @@ f = 40;
 germandbls = 60;
 h = 60;
 k = 60;
+kcommaaccent = 60;
 l = 60;
 lacute = 60;
 lcaron = 60;
+lcommaaccent = 60;
 ldot = 60;
 lslash = 69;
 question = 77;
@@ -171462,11 +171386,8 @@ quotedblleft = 77;
 quotedblright = 70;
 quoteleft = 77;
 quoteright = 70;
-thorn = 60;
-kcommaaccent = 60;
-lcommaaccent = 60;
-Etilde = 40;
 rupee = 40;
+thorn = 60;
 };
 itilde = {
 "@MMK_R_uni02BA" = 60;
@@ -171478,17 +171399,17 @@ f = 30;
 h = 6;
 j = 31;
 k = 6;
+kcommaaccent = 6;
 l = 6;
 lacute = 6;
 lcaron = 6;
+lcommaaccent = 6;
 ldot = 6;
 question = 40;
 quotedblleft = 30;
 quotedblright = 30;
 quoteleft = 30;
 quoteright = 30;
-kcommaaccent = 6;
-lcommaaccent = 6;
 };
 j = {
 itilde = 40;
@@ -171501,6 +171422,9 @@ imacron = 40;
 };
 lcaron = {
 questiondown = -7;
+};
+lcommaaccent = {
+imacron = 40;
 };
 less = {
 parenright = -41;
@@ -171532,6 +171456,12 @@ plus = {
 "@MMK_R_W" = -57;
 "@MMK_R_Y" = -80;
 slash = -39;
+};
+primemod = {
+J = -34;
+backslash = 20;
+imacron = 100;
+itilde = 60;
 };
 q = {
 backslash = -40;
@@ -171622,6 +171552,7 @@ Edotaccent = 41;
 Egrave = 41;
 Emacron = 41;
 Eogonek = 41;
+Etilde = 41;
 F = 41;
 H = 41;
 I = 41;
@@ -171666,10 +171597,9 @@ plus = -64;
 questiondown = -59;
 quotedblbase = -78;
 quotesinglbase = -78;
+rupee = 41;
 slash = -127;
 underscore = -121;
-Etilde = 41;
-rupee = 41;
 };
 underscore = {
 "@MMK_R_C" = -63;
@@ -171683,27 +171613,6 @@ backslash = -159;
 j = 8;
 question = -60;
 underscore = -118;
-};
-lcommaaccent = {
-imacron = 40;
-};
-primemod = {
-J = -34;
-backslash = 20;
-imacron = 100;
-itilde = 60;
-};
-doubleprimemod = {
-J = -34;
-backslash = 20;
-imacron = 100;
-itilde = 60;
-};
-Etilde = {
-ibreve = 29;
-imacron = 51;
-itilde = 33;
-v = -19;
 };
 v = {
 "@MMK_R_a" = -6;
@@ -172382,6 +172291,12 @@ imacron = 56;
 itilde = 41;
 v = -15;
 };
+Etilde = {
+ibreve = 24;
+imacron = 56;
+itilde = 41;
+v = -15;
+};
 F = {
 "@MMK_R_A" = -60;
 "@MMK_R_a" = -40;
@@ -172704,6 +172619,13 @@ questiondown = -29;
 dcroat = {
 imacron = 77;
 };
+doubleprimemod = {
+J = -47;
+at = -50;
+backslash = 20;
+imacron = 100;
+itilde = 60;
+};
 eth = {
 imacron = 30;
 };
@@ -172767,9 +172689,11 @@ idieresis = 80;
 imacron = 60;
 itilde = 63;
 k = 60;
+kcommaaccent = 60;
 l = 60;
 lacute = 60;
 lcaron = 60;
+lcommaaccent = 60;
 ldot = 60;
 lslash = 40;
 parenright = 23;
@@ -172778,8 +172702,6 @@ quotedblleft = 49;
 quotedblright = 40;
 quoteleft = 49;
 quoteright = 40;
-kcommaaccent = 60;
-lcommaaccent = 60;
 };
 ibreve = {
 backslash = 56;
@@ -172801,6 +172723,7 @@ Edotaccent = 40;
 Egrave = 40;
 Emacron = 40;
 Eogonek = 40;
+Etilde = 40;
 F = 40;
 H = 40;
 I = 40;
@@ -172843,9 +172766,11 @@ f = 40;
 germandbls = 60;
 h = 60;
 k = 60;
+kcommaaccent = 60;
 l = 60;
 lacute = 60;
 lcaron = 60;
+lcommaaccent = 60;
 ldot = 60;
 lslash = 64;
 question = 69;
@@ -172853,11 +172778,8 @@ quotedblleft = 69;
 quotedblright = 70;
 quoteleft = 69;
 quoteright = 70;
-thorn = 60;
-kcommaaccent = 60;
-lcommaaccent = 60;
-Etilde = 40;
 rupee = 40;
+thorn = 60;
 };
 itilde = {
 "@MMK_R_uni02BA" = 60;
@@ -172869,17 +172791,17 @@ f = 30;
 h = 23;
 j = 36;
 k = 23;
+kcommaaccent = 23;
 l = 23;
 lacute = 23;
 lcaron = 23;
+lcommaaccent = 23;
 ldot = 23;
 question = 40;
 quotedblleft = 30;
 quotedblright = 30;
 quoteleft = 30;
 quoteright = 30;
-kcommaaccent = 23;
-lcommaaccent = 23;
 };
 j = {
 itilde = 40;
@@ -172892,6 +172814,9 @@ imacron = 40;
 };
 lcaron = {
 questiondown = -29;
+};
+lcommaaccent = {
+imacron = 40;
 };
 less = {
 at = -50;
@@ -172925,6 +172850,13 @@ plus = {
 "@MMK_R_W" = -49;
 "@MMK_R_Y" = -80;
 slash = -34;
+};
+primemod = {
+J = -47;
+at = -50;
+backslash = 20;
+imacron = 100;
+itilde = 60;
 };
 q = {
 backslash = -40;
@@ -172988,6 +172920,9 @@ quotesinglbase = {
 backslash = -120;
 question = -30;
 };
+rupee = {
+v = -39;
+};
 sacute = {
 v = -39;
 };
@@ -172995,6 +172930,9 @@ scaron = {
 v = -39;
 };
 scedilla = {
+v = -39;
+};
+scommaaccent = {
 v = -39;
 };
 semicolon = {
@@ -173027,6 +172965,7 @@ Edotaccent = 46;
 Egrave = 46;
 Emacron = 46;
 Eogonek = 46;
+Etilde = 46;
 F = 46;
 H = 46;
 I = 46;
@@ -173072,10 +173011,9 @@ plus = -47;
 questiondown = -54;
 quotedblbase = -38;
 quotesinglbase = -38;
+rupee = 46;
 slash = -119;
 underscore = -126;
-Etilde = 46;
-rupee = 46;
 };
 underscore = {
 "@MMK_R_C" = -71;
@@ -173090,35 +173028,6 @@ backslash = -154;
 j = 34;
 question = -60;
 underscore = -110;
-};
-lcommaaccent = {
-imacron = 40;
-};
-scommaaccent = {
-v = -39;
-};
-primemod = {
-J = -47;
-at = -50;
-backslash = 20;
-imacron = 100;
-itilde = 60;
-};
-doubleprimemod = {
-J = -47;
-at = -50;
-backslash = 20;
-imacron = 100;
-itilde = 60;
-};
-Etilde = {
-ibreve = 24;
-imacron = 56;
-itilde = 41;
-v = -15;
-};
-rupee = {
-v = -39;
 };
 v = {
 "@MMK_R_a" = -13;
@@ -173817,6 +173726,12 @@ imacron = 59;
 itilde = 46;
 v = -12;
 };
+Etilde = {
+ibreve = 21;
+imacron = 59;
+itilde = 46;
+v = -12;
+};
 F = {
 "@MMK_R_A" = -60;
 "@MMK_R_T" = 15;
@@ -174142,6 +174057,13 @@ questiondown = -44;
 dcroat = {
 imacron = 86;
 };
+doubleprimemod = {
+J = -56;
+at = -83;
+backslash = 20;
+imacron = 100;
+itilde = 60;
+};
 eth = {
 imacron = 30;
 };
@@ -174205,9 +174127,11 @@ idieresis = 80;
 imacron = 60;
 itilde = 74;
 k = 60;
+kcommaaccent = 60;
 l = 60;
 lacute = 60;
 lcaron = 60;
+lcommaaccent = 60;
 ldot = 60;
 lslash = 40;
 parenright = 34;
@@ -174216,8 +174140,6 @@ quotedblleft = 44;
 quotedblright = 40;
 quoteleft = 44;
 quoteright = 40;
-kcommaaccent = 60;
-lcommaaccent = 60;
 };
 ibreve = {
 backslash = 59;
@@ -174239,6 +174161,7 @@ Edotaccent = 40;
 Egrave = 40;
 Emacron = 40;
 Eogonek = 40;
+Etilde = 40;
 F = 40;
 H = 40;
 I = 40;
@@ -174281,9 +174204,11 @@ f = 40;
 germandbls = 60;
 h = 60;
 k = 60;
+kcommaaccent = 60;
 l = 60;
 lacute = 60;
 lcaron = 60;
+lcommaaccent = 60;
 ldot = 60;
 lslash = 61;
 question = 64;
@@ -174291,11 +174216,8 @@ quotedblleft = 64;
 quotedblright = 70;
 quoteleft = 64;
 quoteright = 70;
-thorn = 60;
-kcommaaccent = 60;
-lcommaaccent = 60;
-Etilde = 40;
 rupee = 40;
+thorn = 60;
 };
 itilde = {
 "@MMK_R_uni02BA" = 60;
@@ -174307,17 +174229,17 @@ f = 30;
 h = 34;
 j = 39;
 k = 34;
+kcommaaccent = 34;
 l = 34;
 lacute = 34;
 lcaron = 34;
+lcommaaccent = 34;
 ldot = 34;
 question = 40;
 quotedblleft = 30;
 quotedblright = 30;
 quoteleft = 30;
 quoteright = 30;
-kcommaaccent = 34;
-lcommaaccent = 34;
 };
 j = {
 itilde = 40;
@@ -174331,6 +174253,9 @@ imacron = 40;
 };
 lcaron = {
 questiondown = -44;
+};
+lcommaaccent = {
+imacron = 40;
 };
 less = {
 at = -83;
@@ -174364,6 +174289,13 @@ plus = {
 "@MMK_R_W" = -44;
 "@MMK_R_Y" = -80;
 slash = -31;
+};
+primemod = {
+J = -56;
+at = -83;
+backslash = 20;
+imacron = 100;
+itilde = 60;
 };
 q = {
 backslash = -40;
@@ -174427,6 +174359,9 @@ quotesinglbase = {
 backslash = -120;
 question = -30;
 };
+rupee = {
+v = -34;
+};
 sacute = {
 v = -34;
 };
@@ -174434,6 +174369,9 @@ scaron = {
 v = -34;
 };
 scedilla = {
+v = -34;
+};
+scommaaccent = {
 v = -34;
 };
 semicolon = {
@@ -174466,6 +174404,7 @@ Edotaccent = 49;
 Egrave = 49;
 Emacron = 49;
 Eogonek = 49;
+Etilde = 49;
 F = 49;
 H = 49;
 I = 49;
@@ -174511,10 +174450,9 @@ plus = -36;
 questiondown = -51;
 quotedblbase = -11;
 quotesinglbase = -11;
+rupee = 49;
 slash = -114;
 underscore = -129;
-Etilde = 49;
-rupee = 49;
 };
 underscore = {
 "@MMK_R_C" = -76;
@@ -174529,35 +174467,6 @@ backslash = -151;
 j = 51;
 question = -60;
 underscore = -105;
-};
-lcommaaccent = {
-imacron = 40;
-};
-scommaaccent = {
-v = -34;
-};
-primemod = {
-J = -56;
-at = -83;
-backslash = 20;
-imacron = 100;
-itilde = 60;
-};
-doubleprimemod = {
-J = -56;
-at = -83;
-backslash = 20;
-imacron = 100;
-itilde = 60;
-};
-Etilde = {
-ibreve = 21;
-imacron = 59;
-itilde = 46;
-v = -12;
-};
-rupee = {
-v = -34;
 };
 v = {
 "@MMK_R_a" = -18;
