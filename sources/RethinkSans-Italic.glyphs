@@ -19,41 +19,33 @@ name = Uppercase;
 );
 customParameters = (
 {
-name = panose;
-value = (
-0,
-0,
-5,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1,
-2
-);
-},
-{
-name = codePageRanges;
-value = (
-"1252",
-"1250",
-"1254",
-"1257",
-"bit 29"
-);
-},
-{
 name = blueScale;
 value = 0.037;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+400 = 400;
+550 = 500;
+600 = 600;
+700 = 700;
+800 = 800;
+};
+};
+},
+{
+name = "Variable Font Origin";
+value = m01;
 }
 );
 date = "2021-03-04 17:58:23 +0000";
@@ -95016,16 +95008,7 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2014-2017 Indian Type Foundry with Reserved Font Name 'Poppins'. Copyright 2019 Google LLC with Reserved Name 'DM Sans'. Copyright 2023 Rethink Communications LLP with Reserved Name 'Rethink Sans'.";
-}
-);
-},
-{
-key = familyNames;
-values = (
-{
-language = ENG;
-value = "Rethink Sans";
+value = "Copyright 2022 The Rethink Sans Project Authors (https://github.com/hans-thiessen/Rethink-Sans)";
 }
 );
 },
@@ -95033,8 +95016,38 @@ value = "Rethink Sans";
 key = licenses;
 values = (
 {
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = designerURL;
+value = "https://www.hansthiessen.com/";
+},
+{
+key = manufacturerURL;
+value = "https://rethinkideas.com/";
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
 language = ENG;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+value = "Rethink Communications LLC";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = ENG;
+value = "Hans Thiessen";
 }
 );
 }
