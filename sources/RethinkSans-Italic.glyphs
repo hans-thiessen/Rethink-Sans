@@ -8,11 +8,25 @@ DisplayStrings = (
 Unusual components:
 ĐÐĦĿŁØđħijŀłøªº⓪/zero.circled.solid ½¼¾⅛⅜⅝⅞₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹…„“”«»™Ω¨˙`´˝ˆˇ˘˚˜¯¸˛ʺʹ
 
-Unaligned components:
-ğģġ
-
 Shifted components:
-ÁĂǍÂÄÀĀĄÅÃǼĆČÇĊĎÉĔĚÊËĖÈĒĘẼĞĢĠĲÍĬÎÏİÌĪĮĨ/Jacute ĶĹĽĻŃŇŅÑÓŎÔÖÒŐŌÕŔŘŖŚŠŞȘŤŢȚÚŬÛÜÙŰŪŲŮŨẂŴẄẀÝŶŸỲỸŹŽŻáăǎâäàāąåãǽćčçċďéĕěêëėèēęẽğģġíĭîï/idotaccent ìīįĩĳ/jacute ķĺľļńňņñóŏôöòőōõŕřŗśšşșťţțúŭûüùűūųůũẃŵẅẁýŷÿỳỹźžżﬁﬂ₨¨˙`´˝ˆˇ˘˚˜¯¸˛"
+ÁĂǍÂÄÀĀĄÅÃǼĆČÇĊĎÉĔĚÊËĖÈĒĘẼĞĢĠĲÍĬÎÏİÌĪĮĨ/Jacute ĶĹĽĻŃŇŅÑÓŎÔÖÒŐŌÕŔŘŖŚŠŞȘŤŢȚÚŬÛÜÙŰŪŲŮŨẂŴẄẀÝŶŸỲỸŹŽŻáăǎâäàāąåãǽćčçċďéĕěêëėèēęẽğģġíĭîï/idotaccent ìīįĩĳ/jacute ķĺľļńňņñóŏôöòőōõŕřŗśšşșťţțúŭûüùűūųůũẃŵẅẁýŷÿỳỹźžżﬁﬂ₨¨˙`´˝ˆˇ˘˚˜¯¸˛",
+"Zero Handles:
+æeəœ®®®/registered.case/registered.case/registered.case/Rlogobig/Rlogobig/Rlogobig 
+
+Large Handles:
+SSẞẞẞaæððeəœßßßtttªª22233➁➁➁➋➋➋/two.dnom/two.dnom/two.dnom/three.dnom/three.dnom/two.numr/two.numr/two.numr/three.numr/three.numr ½½½¾¾⅜⅜₂₂₂₃₃²²²³³{{{}@&§§§/at.case $$£££̆/brevecomb.case 
+
+Almost Orthogonal Lines:
+æmpru((()¥
+
+Short Line Segments:
+æ{{{}}}&¥
+
+Bad Path Orientation:
+⅛⅛⅛⅜⅝⅞⅞⅞
+
+",
+"8➇➑/eight.dnom/eight.numr ⅛⅜⅝⅞₈⁸"
 );
 axes = (
 {
@@ -117096,7 +117110,7 @@ width = 299;
 },
 {
 glyphname = eight.numr;
-lastChange = "2023-05-03 08:05:32 +0000";
+lastChange = "2023-05-03 08:50:03 +0000";
 layers = (
 {
 background = {
@@ -119710,7 +119724,7 @@ unicode = 190;
 },
 {
 glyphname = oneeighth;
-lastChange = "2023-05-03 08:43:40 +0000";
+lastChange = "2023-05-03 08:50:00 +0000";
 layers = (
 {
 background = {
@@ -120371,7 +120385,7 @@ unicode = 8539;
 },
 {
 glyphname = threeeighths;
-lastChange = "2023-05-03 08:43:40 +0000";
+lastChange = "2023-05-03 08:49:58 +0000";
 layers = (
 {
 background = {
@@ -121194,7 +121208,7 @@ unicode = 8540;
 },
 {
 glyphname = fiveeighths;
-lastChange = "2023-05-03 08:43:40 +0000";
+lastChange = "2023-05-03 08:49:54 +0000";
 layers = (
 {
 background = {
@@ -121995,7 +122009,7 @@ unicode = 8541;
 },
 {
 glyphname = seveneighths;
-lastChange = "2023-05-03 08:43:40 +0000";
+lastChange = "2023-05-03 08:49:51 +0000";
 layers = (
 {
 background = {
@@ -124932,7 +124946,7 @@ unicode = 8327;
 },
 {
 glyphname = eightinferior;
-lastChange = "2023-05-03 08:05:32 +0000";
+lastChange = "2023-05-03 08:49:49 +0000";
 layers = (
 {
 background = {
@@ -128096,7 +128110,7 @@ unicode = 8311;
 },
 {
 glyphname = eightsuperior;
-lastChange = "2023-05-03 08:05:32 +0000";
+lastChange = "2023-05-03 08:49:46 +0000";
 layers = (
 {
 background = {
