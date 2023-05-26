@@ -33,7 +33,7 @@ name = "Axis Mappings";
 value = {
 wght = {
 400 = 400;
-550 = 500;
+500 = 550;
 600 = 600;
 700 = 700;
 800 = 800;
@@ -794,7 +794,7 @@ unicode = 65;
 {
 glyphname = Aacute;
 kernLeft = A;
-lastChange = "2023-05-08 22:22:48 +0000";
+lastChange = "2023-05-03 08:05:36 +0000";
 layers = (
 {
 background = {
@@ -5665,7 +5665,7 @@ unicode = 67;
 glyphname = Cacute;
 kernLeft = C;
 kernRight = C;
-lastChange = "2023-05-03 07:58:28 +0000";
+lastChange = "2023-05-03 08:05:36 +0000";
 layers = (
 {
 background = {
@@ -65973,7 +65973,7 @@ note = i;
 {
 glyphname = igrave;
 kernLeft = idieresisD;
-lastChange = "2023-05-11 00:22:32 +0000";
+lastChange = "2023-05-11 00:32:32 +0000";
 layers = (
 {
 background = {
@@ -133734,7 +133734,7 @@ unicode = 169;
 },
 {
 glyphname = registered;
-lastChange = "2023-05-03 07:58:21 +0000";
+lastChange = "2023-05-03 07:05:21 +0000";
 layers = (
 {
 background = {
