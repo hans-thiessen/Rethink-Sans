@@ -9,5 +9,5 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Hans Thiessen <hans@rethinkcanada.com>
+Hans Thiessen <hans@rethinkideas.com>
 Emma Marichal <bonjour@emmamarichal.fr>

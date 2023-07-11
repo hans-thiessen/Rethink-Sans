@@ -6,4 +6,4 @@
 # Name or Organization <email address>
 
 Rethink Communications LLC
-Hans Thiessen <hans@rethinkcanada.com>
+Hans Thiessen <hans@rethinkideas.com>

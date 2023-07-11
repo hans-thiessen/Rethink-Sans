@@ -1,16 +1,17 @@
 
 
-# My Font
+# Rethink Sans
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Rethink is one of the largest global independent creative agencies. Founded in Vancouver in 1999, it now has offices in New York, Toronto, Vancouver, and Montréal.
 
-Don't hesitate to create images!
+Rethink Sans was created in 2023 by Rethink’s ECD of Design Hans Thiessen, in collaboration with the fine folks at Google Fonts. It was developed specifically to help everyone design with greater confidence and craft in Google Workspace.
 
-![Sample Image](documentation/image1.png)
+Deceptively simple, Rethink Sans is filled with thoughtfully turbocharged features, including: weight-specific tracking, two styles of circled numbers a simple keystroke away, and tabular lining figures right out-of-the-box.
 
-## About
+To learn more about Rethink, visit [rethinkideas.com](https://rethinkideas.com)
 
-Description of you and/or organisation goes here.
+![RethinkSans_HeroImage](https://github.com/hans-thiessen/Rethink-Sans/assets/119632159/650698eb-d07e-45d8-bc80-26a212d460e0)
+
 
 ## Building
 
@@ -24,19 +25,10 @@ If you want to build fonts manually on your own computer:
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://hans-thiessen.github.io/Rethink-Sans-2.
 
-## Changelog
-
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
-
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
-
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under the SIL Open Font License, Version ![Uploading RethinkSans_HeroImage.png…]()
+1.1.
 This license is available with a FAQ at
 https://scripts.sil.org/OFL
 
