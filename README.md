@@ -13,6 +13,13 @@ To learn more about Rethink, visit [rethinkideas.com](https://rethinkideas.com)
 ![RethinkSans_HeroImage](https://github.com/hans-thiessen/Rethink-Sans/assets/119632159/650698eb-d07e-45d8-bc80-26a212d460e0)
 
 
+## Authors
+
+* Original Poppins design by Jonny Pinhorn
+* Modifications for DM Sans by Colophon Foundry
+* Modifications for Rethink Sans by Hans Thiessen 
+
+
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
@@ -25,12 +32,11 @@ If you want to build fonts manually on your own computer:
 
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://hans-thiessen.github.io/Rethink-Sans-2.
 
+
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version ![Uploading RethinkSans_HeroImage.png…]()
-1.1.
-This license is available with a FAQ at
-https://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at https://scripts.sil.org/OFL
+
 
 ## Repository Layout
 
