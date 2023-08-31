@@ -1,5 +1,5 @@
 {
-.appVersion = "3201";
+.appVersion = "3208";
 .formatVersion = 3;
 axes = (
 {
@@ -165520,7 +165520,7 @@ key = designers;
 values = (
 {
 language = ENG;
-value = "Hans Thiessen";
+value = "The Rethink Sans project authors (Hans Thiessen). DM Sans designed by Colophon Foundry.";
 }
 );
 }
