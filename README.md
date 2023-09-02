@@ -7,6 +7,13 @@ Rethink Sans was designed in 2023 for Rethink by Hans Thiessen in collaboration 
 Deceptively simple, Rethink Sans' features include : size specific tracking, tabular lining figures, and OpenType for everyone.
 
 
+## About Rethink
+
+Rethink is one of the largest global independent creative agencies. Founded in Vancouver in 1999, it now has offices in New York, Toronto, Vancouver, and Montréal.
+
+To learn more about Rethink, visit [rethinkideas.com](https://rethinkideas.com)
+
+
 ## Authors
 
 * Original Poppins design by Jonny Pinhorn
@@ -35,10 +42,3 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 ## Repository Layout
 
 This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
-
-
-## About Rethink
-
-Rethink is one of the largest global independent creative agencies. Founded in Vancouver in 1999, it now has offices in New York, Toronto, Vancouver, and Montréal.
-
-To learn more about Rethink, visit [rethinkideas.com](https://rethinkideas.com)
