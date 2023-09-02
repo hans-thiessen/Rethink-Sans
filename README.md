@@ -2,7 +2,7 @@
 
 # Rethink Sans
 
-Rethink Sans was designed in 2023 for Rethink by Hans Thiessen in collaboration with the fine folks at Google Fonts. A humble open source font built on the shoulders of DM Sans and Poppins, Rethink Sans was thoughtfull turbocharged to help everyone design in Google Workspace with greater confidence and craft.
+Rethink Sans was designed in 2023 for Rethink by Hans Thiessen in collaboration with the fine folks at Google Fonts. A humble open source font built on the shoulders of DM Sans and Poppins, Rethink Sans was thoughtfully turbocharged to help everyone design in Google Workspace with greater confidence and craft.
 
 Deceptively simple, Rethink Sans' features include : size specific tracking, tabular lining figures, and OpenType for everyone.
 
