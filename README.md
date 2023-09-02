@@ -9,6 +9,16 @@ Deceptively simple, Rethink Sans' features include : size specific tracking, tab
 ![RethinkSans](documentation/RethinkSans-01.png)
 ![RethinkSans](documentation/RethinkSans-02.png)
 ![RethinkSans](documentation/RethinkSans-03.png)
+![RethinkSans](documentation/RethinkSans-04.png)
+![RethinkSans](documentation/RethinkSans-05.png)
+![RethinkSans](documentation/RethinkSans-06.png)
+![RethinkSans](documentation/RethinkSans-07.png)
+![RethinkSans](documentation/RethinkSans-08.png)
+![RethinkSans](documentation/RethinkSans-09.png)
+![RethinkSans](documentation/RethinkSans-10.png)
+![RethinkSans](documentation/RethinkSans-11.png)
+![RethinkSans](documentation/RethinkSans-12.png)
+![RethinkSans](documentation/RethinkSans-13.png)
 
 
 ## About Rethink
