@@ -2,15 +2,9 @@
 
 # Rethink Sans
 
-Rethink is one of the largest global independent creative agencies. Founded in Vancouver in 1999, it now has offices in New York, Toronto, Vancouver, and Montréal.
+Rethink Sans was designed in 2023 for Rethink by Hans Thiessen in collaboration with the fine folks at Google Fonts. A humble open source font built on the shoulders of DM Sans and Poppins, Rethink Sans was thoughtfull turbocharged to help everyone design in Google Workspace with greater confidence and craft.
 
-Rethink Sans was created in 2023 by Rethink’s ECD of Design Hans Thiessen, in collaboration with the fine folks at Google Fonts. It was developed specifically to help everyone design with greater confidence and craft in Google Workspace.
-
-Deceptively simple, Rethink Sans is filled with thoughtfully turbocharged features, including: weight-specific tracking, two styles of circled numbers a simple keystroke away, and tabular lining figures right out-of-the-box.
-
-To learn more about Rethink, visit [rethinkideas.com](https://rethinkideas.com)
-
-![RethinkSans_HeroImage](https://github.com/hans-thiessen/Rethink-Sans/assets/119632159/650698eb-d07e-45d8-bc80-26a212d460e0)
+Deceptively simple, Rethink Sans' features include : size specific tracking, tabular lining figures, and OpenType for everyone.
 
 
 ## Authors
@@ -41,3 +35,10 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 ## Repository Layout
 
 This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
+
+
+# About Rethink
+
+Rethink is one of the largest global independent creative agencies. Founded in Vancouver in 1999, it now has offices in New York, Toronto, Vancouver, and Montréal.
+
+To learn more about Rethink, visit [rethinkideas.com](https://rethinkideas.com)
