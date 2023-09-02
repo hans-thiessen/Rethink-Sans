@@ -6,6 +6,10 @@ Rethink Sans was designed in 2023 for Rethink by Hans Thiessen in collaboration 
 
 Deceptively simple, Rethink Sans' features include : size specific tracking, tabular lining figures, and OpenType for everyone.
 
+(Documentation/RethinkSans-01.png)
+(Documentation/RethinkSans-02.png)
+(Documentation/RethinkSans-03.png)
+
 
 ## About Rethink
 
