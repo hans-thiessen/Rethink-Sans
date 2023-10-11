@@ -1,9 +1,6 @@
 {
-.appVersion = "3214";
+.appVersion = "3221";
 .formatVersion = 3;
-DisplayStrings = (
-"TiTíTîTïTìTĭTīTĩT Vă Tä Tü Tõ Tŭ Tř"
-);
 axes = (
 {
 name = Weight;
@@ -356,6 +353,10 @@ name = hheaDescender;
 value = -310;
 },
 {
+name = hheaLineGap;
+value = 0;
+},
+{
 name = strikeoutPosition;
 value = 297;
 },
@@ -419,6 +420,10 @@ value = 992;
 {
 name = hheaDescender;
 value = -310;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -485,6 +490,10 @@ value = 992;
 {
 name = hheaDescender;
 value = -310;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -31466,7 +31475,7 @@ unicode = 342;
 glyphname = S;
 kernLeft = S;
 kernRight = S;
-lastChange = "2023-05-03 08:43:14 +0000";
+lastChange = "2023-06-08 00:33:08 +0000";
 layers = (
 {
 anchors = (
@@ -48347,7 +48356,7 @@ unicode = 228;
 glyphname = agrave;
 kernLeft = a;
 kernRight = a;
-lastChange = "2023-05-03 08:05:36 +0000";
+lastChange = "2023-05-09 22:41:42 +0000";
 layers = (
 {
 background = {
@@ -122443,7 +122452,7 @@ unicode = 8541;
 },
 {
 glyphname = seveneighths;
-lastChange = "2023-05-03 08:49:51 +0000";
+lastChange = "2023-05-03 07:58:21 +0000";
 layers = (
 {
 background = {
@@ -129404,7 +129413,7 @@ unicode = 8313;
 },
 {
 glyphname = space;
-lastChange = "2023-05-03 08:05:32 +0000";
+lastChange = "2023-05-03 07:58:21 +0000";
 layers = (
 {
 layerId = m01;
@@ -175063,5 +175072,5 @@ value = "The Rethink Sans project authors (Hans Thiessen). DM Sans designed by C
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

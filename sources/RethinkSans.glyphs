@@ -1,5 +1,5 @@
 {
-.appVersion = "3214";
+.appVersion = "3221";
 .formatVersion = 3;
 axes = (
 {
@@ -346,6 +346,10 @@ name = hheaDescender;
 value = -310;
 },
 {
+name = hheaLineGap;
+value = 0;
+},
+{
 name = strikeoutPosition;
 value = 297;
 },
@@ -410,6 +414,10 @@ name = hheaDescender;
 value = -310;
 },
 {
+name = hheaLineGap;
+value = 0;
+},
+{
 name = strikeoutPosition;
 value = 297;
 },
@@ -448,11 +456,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 991.99994;
+value = 992;
 },
 {
 name = typoDescender;
-value = -309.99997;
+value = -310;
 },
 {
 name = typoLineGap;
@@ -460,23 +468,27 @@ value = 0;
 },
 {
 name = winAscent;
-value = 991.99994;
+value = 992;
 },
 {
 name = winDescent;
-value = 309.99997;
+value = 310;
 },
 {
 name = hheaAscender;
-value = 991.99994;
+value = 992;
 },
 {
 name = hheaDescender;
-value = -309.99997;
+value = -310;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
-value = 296.99997;
+value = 297;
 },
 {
 name = strikeoutSize;
@@ -165931,5 +165943,5 @@ value = "The Rethink Sans project authors (Hans Thiessen). DM Sans designed by C
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
