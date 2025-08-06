@@ -1,5 +1,5 @@
 {
-.appVersion = "3221";
+.appVersion = "3343";
 .formatVersion = 3;
 axes = (
 {
@@ -45,7 +45,7 @@ name = "Variable Font Origin";
 value = "E8FC3098-FD3B-4CCD-A487-BB9306939620";
 }
 );
-date = "2021-03-04 17:58:23 +0000";
+date = "2025-08-06 00:04:24 +0000";
 familyName = "Rethink Sans";
 featurePrefixes = (
 {
@@ -277,7 +277,8 @@ sub braceleft nine braceright by nine.sansSerifBlackCircled;
 sub less hyphen hyphen by leftArrow;
 sub hyphen hyphen greater by rightArrow;
 sub less hyphen hyphen hyphen by upArrow;
-sub hyphen hyphen hyphen greater by downArrow;";
+sub hyphen hyphen hyphen greater by downArrow;
+sub registered greater by registered.ss01;";
 tag = liga;
 },
 {
@@ -309,6 +310,18 @@ sub cedillacomb by cedillacomb.case;
 sub ogonekcomb by ogonekcomb.case;
 ";
 tag = case;
+},
+{
+automatic = 1;
+code = "sub registered by registered.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
 }
 );
 fontMaster = (
@@ -344,10 +357,6 @@ value = 992;
 {
 name = hheaDescender;
 value = -310;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = strikeoutPosition;
@@ -414,10 +423,6 @@ name = hheaDescender;
 value = -310;
 },
 {
-name = hheaLineGap;
-value = 0;
-},
-{
 name = strikeoutPosition;
 value = 297;
 },
@@ -456,11 +461,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 992;
+value = 991.99994;
 },
 {
 name = typoDescender;
-value = -310;
+value = -309.99997;
 },
 {
 name = typoLineGap;
@@ -468,27 +473,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 992;
+value = 991.99994;
 },
 {
 name = winDescent;
-value = 310;
+value = 309.99997;
 },
 {
 name = hheaAscender;
-value = 992;
+value = 991.99994;
 },
 {
 name = hheaDescender;
-value = -310;
-},
-{
-name = hheaLineGap;
-value = 0;
+value = -309.99997;
 },
 {
 name = strikeoutPosition;
-value = 297;
+value = 296.99997;
 },
 {
 name = strikeoutSize;
@@ -122582,7 +122583,7 @@ nodes = (
 width = 529;
 }
 );
-note = ".notdef";
+note = .notdef;
 },
 {
 glyphname = period;
@@ -137427,6 +137428,595 @@ nodes = (
 }
 );
 width = 377;
+}
+);
+note = registered;
+},
+{
+glyphname = registered.ss01;
+lastChange = "2025-08-05 23:56:17 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,425,o),
+(327,489,o),
+(327,568,c),
+(327,648,o),
+(263,712,o),
+(184,712,c),
+(105,712,o),
+(40,648,o),
+(40,568,c),
+(40,489,o),
+(105,425,o),
+(184,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(150,496,l),
+(151,498,o),
+(185,561,o),
+(185,561,c),
+(203,561,l),
+(203,496,l),
+(231,496,l),
+(231,651,l),
+(177,651,l),
+(139,651,o),
+(129,627,o),
+(129,607,c),
+(129,587,o),
+(140,574,o),
+(158,568,c),
+(158,568,o),
+(119,500,o),
+(117,496,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(118,448,o),
+(64,502,o),
+(64,568,c),
+(64,634,o),
+(118,688,o),
+(184,688,c),
+(250,688,o),
+(304,634,o),
+(304,568,c),
+(304,502,o),
+(250,448,o),
+(184,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(168,585,o),
+(156,592,o),
+(156,607,c),
+(156,621,o),
+(166,628,o),
+(181,628,c),
+(203,628,l),
+(203,585,l),
+(184,585,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (293,46);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (477,43);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (560,51);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (665,47);
+type = Stem;
+},
+{
+place = (322,-50);
+type = Stem;
+},
+{
+place = (198,-60);
+type = Stem;
+},
+{
+place = (80,-61);
+type = Stem;
+},
+{
+place = (-47,-49);
+type = Stem;
+},
+{
+place = (198,-59);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(262,425,o),
+(327,489,o),
+(327,568,c),
+(327,648,o),
+(262,712,o),
+(183,712,c),
+(104,712,o),
+(40,648,o),
+(40,568,c),
+(40,489,o),
+(104,425,o),
+(183,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(248,500,o),
+(209,568,o),
+(209,568,c),
+(227,574,o),
+(238,587,o),
+(238,607,c),
+(238,627,o),
+(228,651,o),
+(190,651,c),
+(136,651,l),
+(136,496,l),
+(164,496,l),
+(164,561,l),
+(182,561,l),
+(182,561,o),
+(216,498,o),
+(217,496,c),
+(250,496,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(117,448,o),
+(63,502,o),
+(63,568,c),
+(63,634,o),
+(117,688,o),
+(183,688,c),
+(249,688,o),
+(303,634,o),
+(303,568,c),
+(303,502,o),
+(249,448,o),
+(183,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(164,585,l),
+(164,628,l),
+(186,628,l),
+(201,628,o),
+(211,621,o),
+(211,607,c),
+(211,592,o),
+(199,585,o),
+(183,585,c)
+);
+}
+);
+width = 367;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,425,o),
+(332,489,o),
+(332,568,c),
+(332,648,o),
+(268,712,o),
+(189,712,c),
+(110,712,o),
+(45,648,o),
+(45,568,c),
+(45,489,o),
+(110,425,o),
+(189,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(155,496,l),
+(156,498,o),
+(190,561,o),
+(190,561,c),
+(208,561,l),
+(208,496,l),
+(236,496,l),
+(236,651,l),
+(182,651,l),
+(144,651,o),
+(134,627,o),
+(134,607,c),
+(134,587,o),
+(145,574,o),
+(163,568,c),
+(163,568,o),
+(124,500,o),
+(122,496,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(123,448,o),
+(69,502,o),
+(69,568,c),
+(69,634,o),
+(123,688,o),
+(189,688,c),
+(255,688,o),
+(309,634,o),
+(309,568,c),
+(309,502,o),
+(255,448,o),
+(189,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(173,585,o),
+(161,592,o),
+(161,607,c),
+(161,621,o),
+(171,628,o),
+(186,628,c),
+(208,628,l),
+(208,585,l),
+(189,585,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (293,46);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (477,43);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (560,51);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (665,47);
+type = Stem;
+},
+{
+place = (332,-50);
+type = Stem;
+},
+{
+place = (208,-60);
+type = Stem;
+},
+{
+place = (90,-61);
+type = Stem;
+},
+{
+place = (-37,-49);
+type = Stem;
+},
+{
+place = (208,-59);
+type = Stem;
+}
+);
+layerId = "E8FC3098-FD3B-4CCD-A487-BB9306939620";
+shapes = (
+{
+closed = 1;
+nodes = (
+(267,425,o),
+(332,489,o),
+(332,568,c),
+(332,648,o),
+(267,712,o),
+(188,712,c),
+(109,712,o),
+(45,648,o),
+(45,568,c),
+(45,489,o),
+(109,425,o),
+(188,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(253,500,o),
+(214,568,o),
+(214,568,c),
+(232,574,o),
+(243,587,o),
+(243,607,c),
+(243,627,o),
+(233,651,o),
+(195,651,c),
+(141,651,l),
+(141,496,l),
+(169,496,l),
+(169,561,l),
+(187,561,l),
+(187,561,o),
+(221,498,o),
+(222,496,c),
+(255,496,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(122,448,o),
+(68,502,o),
+(68,568,c),
+(68,634,o),
+(122,688,o),
+(188,688,c),
+(254,688,o),
+(308,634,o),
+(308,568,c),
+(308,502,o),
+(254,448,o),
+(188,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(169,585,l),
+(169,628,l),
+(191,628,l),
+(206,628,o),
+(216,621,o),
+(216,607,c),
+(216,592,o),
+(204,585,o),
+(188,585,c)
+);
+}
+);
+width = 377;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(253,425,o),
+(317,489,o),
+(317,568,c),
+(317,648,o),
+(253,712,o),
+(174,712,c),
+(95,712,o),
+(30,648,o),
+(30,568,c),
+(30,489,o),
+(95,425,o),
+(174,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,496,l),
+(141,498,o),
+(175,561,o),
+(175,561,c),
+(193,561,l),
+(193,496,l),
+(221,496,l),
+(221,651,l),
+(167,651,l),
+(129,651,o),
+(119,627,o),
+(119,607,c),
+(119,587,o),
+(130,574,o),
+(148,568,c),
+(148,568,o),
+(109,500,o),
+(107,496,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(108,448,o),
+(54,502,o),
+(54,568,c),
+(54,634,o),
+(108,688,o),
+(174,688,c),
+(240,688,o),
+(294,634,o),
+(294,568,c),
+(294,502,o),
+(240,448,o),
+(174,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(158,585,o),
+(146,592,o),
+(146,607,c),
+(146,621,o),
+(156,628,o),
+(171,628,c),
+(193,628,l),
+(193,585,l),
+(174,585,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (293,46);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (477,43);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (560,51);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (665,47);
+type = Stem;
+},
+{
+place = (302,-50);
+type = Stem;
+},
+{
+place = (178,-60);
+type = Stem;
+},
+{
+place = (60,-61);
+type = Stem;
+},
+{
+place = (-67,-49);
+type = Stem;
+},
+{
+place = (178,-59);
+type = Stem;
+}
+);
+layerId = "E93BD6B3-FA9D-4EFB-B4A0-6094DEE674CC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(252,425,o),
+(317,489,o),
+(317,568,c),
+(317,648,o),
+(252,712,o),
+(173,712,c),
+(94,712,o),
+(30,648,o),
+(30,568,c),
+(30,489,o),
+(94,425,o),
+(173,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(238,500,o),
+(199,568,o),
+(199,568,c),
+(217,574,o),
+(228,587,o),
+(228,607,c),
+(228,627,o),
+(218,651,o),
+(180,651,c),
+(126,651,l),
+(126,496,l),
+(154,496,l),
+(154,561,l),
+(172,561,l),
+(172,561,o),
+(206,498,o),
+(207,496,c),
+(240,496,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(107,448,o),
+(53,502,o),
+(53,568,c),
+(53,634,o),
+(107,688,o),
+(173,688,c),
+(239,688,o),
+(293,634,o),
+(293,568,c),
+(293,502,o),
+(239,448,o),
+(173,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(154,585,l),
+(154,628,l),
+(176,628,l),
+(191,628,o),
+(201,621,o),
+(201,607,c),
+(201,592,o),
+(189,585,o),
+(173,585,c)
+);
+}
+);
+width = 347;
 }
 );
 note = registered;
@@ -165902,6 +166492,19 @@ value = "Copyright 2022 The Rethink Sans Project Authors (https://github.com/han
 );
 },
 {
+key = designers;
+values = (
+{
+language = ENG;
+value = "The Rethink Sans project authors (Hans Thiessen). DM Sans designed by Colophon Foundry.";
+}
+);
+},
+{
+key = designerURL;
+value = "https://www.hansthiessen.com/";
+},
+{
 key = licenses;
 values = (
 {
@@ -165909,10 +166512,6 @@ language = dflt;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
-},
-{
-key = manufacturerURL;
-value = "https://rethinkideas.com/";
 },
 {
 key = licenseURL;
@@ -165928,20 +166527,11 @@ value = "Rethink Communications LLC";
 );
 },
 {
-key = designerURL;
-value = "https://www.hansthiessen.com/";
-},
-{
-key = designers;
-values = (
-{
-language = ENG;
-value = "The Rethink Sans project authors (Hans Thiessen). DM Sans designed by Colophon Foundry.";
-}
-);
+key = manufacturerURL;
+value = "https://rethinkideas.com/";
 }
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 100;
 }

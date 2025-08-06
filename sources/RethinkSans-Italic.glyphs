@@ -1,6 +1,9 @@
 {
-.appVersion = "3221";
+.appVersion = "3343";
 .formatVersion = 3;
+DisplayStrings = (
+"TiTíTîTïTìTĭTīTĩT Vă Tä Tü Tõ Tŭ Tř"
+);
 axes = (
 {
 name = Weight;
@@ -45,7 +48,7 @@ name = "Variable Font Origin";
 value = m01;
 }
 );
-date = "2021-03-04 17:58:23 +0000";
+date = "2025-08-06 00:04:16 +0000";
 familyName = "Rethink Sans";
 featurePrefixes = (
 {
@@ -284,7 +287,9 @@ sub braceleft nine braceright by nine.sansSerifBlackCircled;
 sub less hyphen hyphen by leftArrow;
 sub hyphen hyphen greater by rightArrow;
 sub less hyphen hyphen hyphen by upArrow;
-sub hyphen hyphen hyphen greater by downArrow;";
+sub hyphen hyphen hyphen greater by downArrow;
+sub registered greater by registered.ss01;
+";
 tag = liga;
 },
 {
@@ -316,6 +321,18 @@ sub cedillacomb by cedillacomb.case;
 sub ogonekcomb by ogonekcomb.case;
 ";
 tag = case;
+},
+{
+automatic = 1;
+code = "sub registered by registered.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
 }
 );
 fontMaster = (
@@ -351,10 +368,6 @@ value = 992;
 {
 name = hheaDescender;
 value = -310;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = strikeoutPosition;
@@ -422,10 +435,6 @@ name = hheaDescender;
 value = -310;
 },
 {
-name = hheaLineGap;
-value = 0;
-},
-{
 name = strikeoutPosition;
 value = 297;
 },
@@ -490,10 +499,6 @@ value = 992;
 {
 name = hheaDescender;
 value = -310;
-},
-{
-name = hheaLineGap;
-value = 0;
 },
 {
 name = strikeoutPosition;
@@ -31475,7 +31480,7 @@ unicode = 342;
 glyphname = S;
 kernLeft = S;
 kernRight = S;
-lastChange = "2023-06-08 00:33:08 +0000";
+lastChange = "2023-05-03 08:43:14 +0000";
 layers = (
 {
 anchors = (
@@ -48356,7 +48361,7 @@ unicode = 228;
 glyphname = agrave;
 kernLeft = a;
 kernRight = a;
-lastChange = "2023-05-09 22:41:42 +0000";
+lastChange = "2023-05-03 08:05:36 +0000";
 layers = (
 {
 background = {
@@ -122452,7 +122457,7 @@ unicode = 8541;
 },
 {
 glyphname = seveneighths;
-lastChange = "2023-05-03 07:58:21 +0000";
+lastChange = "2023-05-03 08:49:51 +0000";
 layers = (
 {
 background = {
@@ -129413,7 +129418,7 @@ unicode = 8313;
 },
 {
 glyphname = space;
-lastChange = "2023-05-03 07:58:21 +0000";
+lastChange = "2023-05-03 08:05:32 +0000";
 layers = (
 {
 layerId = m01;
@@ -129662,7 +129667,7 @@ nodes = (
 width = 509;
 }
 );
-note = ".notdef";
+note = .notdef;
 },
 {
 glyphname = period;
@@ -144665,6 +144670,576 @@ nodes = (
 }
 );
 width = 336;
+}
+);
+note = registered;
+},
+{
+glyphname = registered.ss01;
+lastChange = "2025-08-06 00:02:52 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,425,o),
+(386,489,o),
+(386,568,c),
+(386,648,o),
+(322,712,o),
+(243,712,c),
+(164,712,o),
+(99,648,o),
+(99,568,c),
+(99,489,o),
+(164,425,o),
+(243,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(209,496,l),
+(210,498,o),
+(244,561,o),
+(244,561,c),
+(262,561,l),
+(262,496,l),
+(290,496,l),
+(290,651,l),
+(236,651,l),
+(198,651,o),
+(188,627,o),
+(188,607,c),
+(188,587,o),
+(199,574,o),
+(217,568,c),
+(217,568,o),
+(178,500,o),
+(176,496,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(177,448,o),
+(123,502,o),
+(123,568,c),
+(123,634,o),
+(177,688,o),
+(243,688,c),
+(309,688,o),
+(363,634,o),
+(363,568,c),
+(363,502,o),
+(309,448,o),
+(243,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(227,585,o),
+(215,592,o),
+(215,607,c),
+(215,621,o),
+(225,628,o),
+(240,628,c),
+(262,628,l),
+(262,585,l),
+(243,585,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (307,36);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (487,39);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (575,43);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (675,37);
+type = Stem;
+},
+{
+place = (395,-39);
+type = Stem;
+},
+{
+place = (144,-49);
+type = Stem;
+},
+{
+place = (27,-39);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(321,425,o),
+(386,489,o),
+(386,568,c),
+(386,648,o),
+(321,712,o),
+(242,712,c),
+(163,712,o),
+(99,648,o),
+(99,568,c),
+(99,489,o),
+(163,425,o),
+(242,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(307,500,o),
+(268,568,o),
+(268,568,c),
+(286,574,o),
+(297,587,o),
+(297,607,c),
+(297,627,o),
+(287,651,o),
+(249,651,c),
+(195,651,l),
+(195,496,l),
+(223,496,l),
+(223,561,l),
+(241,561,l),
+(241,561,o),
+(275,498,o),
+(276,496,c),
+(309,496,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,448,o),
+(122,502,o),
+(122,568,c),
+(122,634,o),
+(176,688,o),
+(242,688,c),
+(308,688,o),
+(362,634,o),
+(362,568,c),
+(362,502,o),
+(308,448,o),
+(242,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(223,585,l),
+(223,628,l),
+(245,628,l),
+(260,628,o),
+(270,621,o),
+(270,607,c),
+(270,592,o),
+(258,585,o),
+(242,585,c)
+);
+}
+);
+width = 372;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(307,425,o),
+(371,489,o),
+(371,568,c),
+(371,648,o),
+(307,712,o),
+(228,712,c),
+(149,712,o),
+(84,648,o),
+(84,568,c),
+(84,489,o),
+(149,425,o),
+(228,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(194,496,l),
+(195,498,o),
+(229,561,o),
+(229,561,c),
+(247,561,l),
+(247,496,l),
+(275,496,l),
+(275,651,l),
+(221,651,l),
+(183,651,o),
+(173,627,o),
+(173,607,c),
+(173,587,o),
+(184,574,o),
+(202,568,c),
+(202,568,o),
+(163,500,o),
+(161,496,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(162,448,o),
+(108,502,o),
+(108,568,c),
+(108,634,o),
+(162,688,o),
+(228,688,c),
+(294,688,o),
+(348,634,o),
+(348,568,c),
+(348,502,o),
+(294,448,o),
+(228,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(212,585,o),
+(200,592,o),
+(200,607,c),
+(200,621,o),
+(210,628,o),
+(225,628,c),
+(247,628,l),
+(247,585,l),
+(228,585,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (283,36);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (467,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (549,42);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (655,37);
+type = Stem;
+},
+{
+place = (383,-41);
+type = Stem;
+},
+{
+place = (9,-41);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (389,114);
+type = Stem;
+},
+{
+place = (134,-54);
+type = Stem;
+}
+);
+layerId = "C673E357-C9AB-4A21-92F5-E812FFC50395";
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,425,o),
+(371,489,o),
+(371,568,c),
+(371,648,o),
+(306,712,o),
+(227,712,c),
+(148,712,o),
+(84,648,o),
+(84,568,c),
+(84,489,o),
+(148,425,o),
+(227,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(292,500,o),
+(253,568,o),
+(253,568,c),
+(271,574,o),
+(282,587,o),
+(282,607,c),
+(282,627,o),
+(272,651,o),
+(234,651,c),
+(180,651,l),
+(180,496,l),
+(208,496,l),
+(208,561,l),
+(226,561,l),
+(226,561,o),
+(260,498,o),
+(261,496,c),
+(294,496,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(161,448,o),
+(107,502,o),
+(107,568,c),
+(107,634,o),
+(161,688,o),
+(227,688,c),
+(293,688,o),
+(347,634,o),
+(347,568,c),
+(347,502,o),
+(293,448,o),
+(227,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(208,585,l),
+(208,628,l),
+(230,628,l),
+(245,628,o),
+(255,621,o),
+(255,607,c),
+(255,592,o),
+(243,585,o),
+(227,585,c)
+);
+}
+);
+width = 342;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(304,425,o),
+(368,489,o),
+(368,568,c),
+(368,648,o),
+(304,712,o),
+(225,712,c),
+(146,712,o),
+(81,648,o),
+(81,568,c),
+(81,489,o),
+(146,425,o),
+(225,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,496,l),
+(192,498,o),
+(226,561,o),
+(226,561,c),
+(244,561,l),
+(244,496,l),
+(272,496,l),
+(272,651,l),
+(218,651,l),
+(180,651,o),
+(170,627,o),
+(170,607,c),
+(170,587,o),
+(181,574,o),
+(199,568,c),
+(199,568,o),
+(160,500,o),
+(158,496,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(159,448,o),
+(105,502,o),
+(105,568,c),
+(105,634,o),
+(159,688,o),
+(225,688,c),
+(291,688,o),
+(345,634,o),
+(345,568,c),
+(345,502,o),
+(291,448,o),
+(225,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(209,585,o),
+(197,592,o),
+(197,607,c),
+(197,621,o),
+(207,628,o),
+(222,628,c),
+(244,628,l),
+(244,585,l),
+(225,585,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (450,172);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (460,39);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (538,48);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (648,44);
+type = Stem;
+},
+{
+place = (-33,-71);
+type = Stem;
+},
+{
+place = (-74,-42);
+type = Stem;
+},
+{
+place = (276,-41);
+type = Stem;
+}
+);
+layerId = "3DCB9202-475F-4A42-ABEA-4A11C2D29AB5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(303,425,o),
+(368,489,o),
+(368,568,c),
+(368,648,o),
+(303,712,o),
+(224,712,c),
+(145,712,o),
+(81,648,o),
+(81,568,c),
+(81,489,o),
+(145,425,o),
+(224,425,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(289,500,o),
+(250,568,o),
+(250,568,c),
+(268,574,o),
+(279,587,o),
+(279,607,c),
+(279,627,o),
+(269,651,o),
+(231,651,c),
+(177,651,l),
+(177,496,l),
+(205,496,l),
+(205,561,l),
+(223,561,l),
+(223,561,o),
+(257,498,o),
+(258,496,c),
+(291,496,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(158,448,o),
+(104,502,o),
+(104,568,c),
+(104,634,o),
+(158,688,o),
+(224,688,c),
+(290,688,o),
+(344,634,o),
+(344,568,c),
+(344,502,o),
+(290,448,o),
+(224,448,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(205,585,l),
+(205,628,l),
+(227,628,l),
+(242,628,o),
+(252,621,o),
+(252,607,c),
+(252,592,o),
+(240,585,o),
+(224,585,c)
+);
+}
+);
+width = 335;
 }
 );
 note = registered;
@@ -175031,11 +175606,11 @@ value = "Copyright 2022 The Rethink Sans Project Authors (https://github.com/han
 );
 },
 {
-key = licenses;
+key = designers;
 values = (
 {
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+language = ENG;
+value = "The Rethink Sans project authors (Hans Thiessen). DM Sans designed by Colophon Foundry.";
 }
 );
 },
@@ -175044,8 +175619,13 @@ key = designerURL;
 value = "https://www.hansthiessen.com/";
 },
 {
-key = manufacturerURL;
-value = "https://rethinkideas.com/";
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
 },
 {
 key = licenseURL;
@@ -175061,16 +175641,11 @@ value = "Rethink Communications LLC";
 );
 },
 {
-key = designers;
-values = (
-{
-language = ENG;
-value = "The Rethink Sans project authors (Hans Thiessen). DM Sans designed by Colophon Foundry.";
-}
-);
+key = manufacturerURL;
+value = "https://rethinkideas.com/";
 }
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 100;
 }
